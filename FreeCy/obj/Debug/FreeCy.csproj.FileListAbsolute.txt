@@ -1,0 +1,378 @@
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\FreeCy.dll.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\FreeCy.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\FreeCy.pdb
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\WebGrease.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\obj\Debug\FreeCy.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FreeCy\FreeCy\obj\Debug\FreeCy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FreeCy\FreeCy\obj\Debug\FreeCy.csproj.CopyComplete
+C:\Users\Admin\source\repos\FreeCy\FreeCy\obj\Debug\FreeCy.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\obj\Debug\FreeCy.pdb
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Models.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Models.pdb
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\Models.dll.config
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\FreeCy\FreeCy\bin\EntityFramework.SqlServer.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\FreeCy.dll.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\FreeCy.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\FreeCy.pdb
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csc.exe
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csc.exe.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csc.rsp
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csi.exe
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csi.exe.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\csi.rsp
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.AppContext.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Console.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.IO.Compression.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Net.Http.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.ValueTuple.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\vbc.exe
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\vbc.exe.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\vbc.rsp
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\VBCSCompiler.exe
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Antlr3.Runtime.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\EntityFramework.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\EntityFramework.SqlServer.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Models.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Newtonsoft.Json.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Helpers.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Mvc.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Optimization.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Razor.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.Razor.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\WebGrease.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Models.pdb
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Models.dll.config
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\EntityFramework.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\EntityFramework.SqlServer.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Helpers.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Mvc.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Optimization.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.Razor.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\System.Web.WebPages.Razor.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Newtonsoft.Json.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Antlr3.Runtime.pdb
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\obj\Debug\FreeCy.csprojAssemblyReference.cache
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\obj\Debug\FreeCy.csproj.CoreCompileInputs.cache
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\obj\Debug\FreeCy.csproj.CopyComplete
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\obj\Debug\FreeCy.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\obj\Debug\FreeCy.pdb
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\PagedList.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\PagedList.Mvc.dll
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\PagedList.xml
+C:\Users\trian\Downloads\freecy-main\freecy-main\FreeCy\bin\PagedList.Mvc.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\FreeCy.dll.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\FreeCy.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\FreeCy.pdb
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csc.exe
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csc.exe.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csc.rsp
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csi.exe
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csi.exe.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\csi.rsp
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.AppContext.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Collections.Immutable.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Console.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Globalization.Calendars.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.IO.Compression.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.IO.FileSystem.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Net.Http.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Net.Sockets.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Reflection.Metadata.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.ValueTuple.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Xml.XPath.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\vbc.exe
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\vbc.exe.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\vbc.rsp
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\VBCSCompiler.exe
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\roslyn\VBCSCompiler.exe.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Antlr3.Runtime.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\EntityFramework.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\EntityFramework.SqlServer.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Web.Infrastructure.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Models.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Newtonsoft.Json.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\PagedList.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\PagedList.Mvc.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Helpers.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Mvc.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Optimization.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Razor.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.Deployment.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.Razor.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\WebGrease.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Models.pdb
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Models.dll.config
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\EntityFramework.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\EntityFramework.SqlServer.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\PagedList.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\PagedList.Mvc.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Helpers.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Mvc.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Optimization.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.Razor.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.Deployment.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\System.Web.WebPages.Razor.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Newtonsoft.Json.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Antlr3.Runtime.pdb
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\obj\Debug\FreeCy.csprojAssemblyReference.cache
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\obj\Debug\FreeCy.csproj.CoreCompileInputs.cache
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\obj\Debug\FreeCy.csproj.CopyComplete
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\obj\Debug\FreeCy.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\obj\Debug\FreeCy.pdb
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Facebook.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Facebook.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.Security.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Owin.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.Security.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Common.dll
+D:\freecy-main\freecy-update3\freecy-main\FreeCy\bin\Common.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\FreeCy.dll.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\FreeCy.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\FreeCy.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csc.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csc.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csc.rsp
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csi.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csi.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\csi.rsp
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.AppContext.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Collections.Immutable.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Console.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Globalization.Calendars.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.IO.Compression.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.IO.FileSystem.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Net.Http.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Net.Sockets.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Reflection.Metadata.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.ValueTuple.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Xml.XPath.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\vbc.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\vbc.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\vbc.rsp
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\VBCSCompiler.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\roslyn\VBCSCompiler.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Antlr3.Runtime.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Common.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\EntityFramework.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\EntityFramework.SqlServer.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Facebook.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.Security.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Web.Infrastructure.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Models.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Newtonsoft.Json.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Owin.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\PagedList.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\PagedList.Mvc.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Helpers.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Mvc.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Optimization.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Razor.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.Deployment.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.Razor.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\WebGrease.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Common.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Models.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Models.dll.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\EntityFramework.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\EntityFramework.SqlServer.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Facebook.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.Security.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\PagedList.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\PagedList.Mvc.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Helpers.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Mvc.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Optimization.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.Razor.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.Deployment.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\System.Web.WebPages.Razor.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Newtonsoft.Json.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Antlr3.Runtime.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\obj\Debug\FreeCy.csprojAssemblyReference.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\obj\Debug\FreeCy.csproj.CoreCompileInputs.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\obj\Debug\FreeCy.csproj.CopyComplete
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\obj\Debug\FreeCy.dll
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\PBL3\pblAn\freecy_update3\FreeCy\obj\Debug\FreeCy.pdb
